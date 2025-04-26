@@ -1,6 +1,8 @@
 # CSC101-AI-course-assistant
 The Python Instructor Assistant streamlines the teaching process by generating lesson materials, Socratic questions, summary lessons,. Designed to minimize repetitive tasks, it empowers educators to focus on engaging learners and delivering dynamic, interactive Python lessons.
-References
+
+References:
+
 1. Rizvi, M. (2023). Investigating aı-powered tutoring systems that adapt to 
 individual student needs, providing personalized guidance and assessments. 
 The Eurasia Proceedings of Educational & Social Sciences (EPESS), 
