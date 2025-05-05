@@ -26,5 +26,5 @@ def find_headings(pdf_path):
 
 if __name__ == "__main__":
     # Replace with the path to your PDF file
-    pdf_path = r"C:\Users\tiena\gargi_chapters\chapter 2.pdf"
+    pdf_path = r"" //enter your directory of file
     find_headings(pdf_path)
