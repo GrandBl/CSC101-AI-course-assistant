@@ -1,4 +1,4 @@
-import pdfplumber
+import pdfplumber //install pdfplumber
 import re
 
 def extract_pdf_headings_to_text(pdf_path, txt_path, heading_size_threshold=13):
