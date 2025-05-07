@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Teacher Portal</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+    body, h1, h2, h3, h4, h5, h6 {font-family: "Montserrat", sans-serif;}
+    .w3-row-padding img {margin-bottom: 12px;}
+    .w3-sidebar {width: 120px; background: #222;}
+    #main {margin-left: 120px; margin-right: 370px;}
+    .header-content { max-width: 500px; margin: 0 auto; }
+    .header-image { width: 50%; max-width: 400px; opacity: 0.8; }
+    @media only screen and (max-width: 600px) {#main {margin-left: 0;}}
+    </style>
+</head>
+
+<link rel="stylesheet" href="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/themes/df-messenger-default.css">
+<script src="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/df-messenger.js"></script>
+<df-messenger
+  location="us-east1"
+  project-id="csc111-ai-assistant-project"
+  agent-id="bbbfffa2-91f5-4fca-926d-a8be59516efa"
+  language-code="en"
+  max-query-length="-1">
+  <df-messenger-chat
+   chat-title="Course Assistant">
+  </df-messenger-chat>
+</df-messenger>
+<style>
+  df-messenger {
+    z-index: 999;
+    position: fixed;
+    --df-messenger-font-color: #000;
+    --df-messenger-font-family: Google Sans;
+    --df-messenger-chat-background: #f3f6fc;
+    --df-messenger-message-user-background: #d3e3fd;
+    --df-messenger-message-bot-background: #fff;
+    bottom: 0;
+    right: 0;
+    top: 0;
+    width: 350px;
+  }
+</style>
+
+
+<body class="w3-black">
+
+<nav class="w3-sidebar w3-bar-block w3-small w3-hide-small w3-center">
+    <img src="https://www.qcc.edu/sites/default/files/styles/hero_lg/public/uploads/images/2023-10/worcester_hero_aerial.jpg?h=a933df22&itok=5WwGAJxl" style="width:100%">
+    <a href="#" class="w3-bar-item w3-button w3-padding-large w3-black">
+        <i class="fa fa-home w3-xxlarge"></i>
+        <p>HOME</p>
+    </a>
+    <a href="#students" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+        <i class="fa fa-users w3-xxlarge"></i>
+        <p>STUDENTS</p>
+    </a>
+    <a href="#classinfo" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+        <i class="fa fa-book w3-xxlarge"></i>
+        <p>CLASS INFO</p>
+    </a>
+    <a href="#homework" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+        <i class="fa fa-pencil w3-xxlarge"></i>
+        <p>HOMEWORK</p>
+    </a>
+    <a href="#tests" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+        <i class="fa fa-graduation-cap w3-xxlarge"></i>
+        <p>TESTS</p>
+    </a>
+    <a href="#lessons" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+        <i class="fa fa-lightbulb-o w3-xxlarge"></i>
+        <p>LESSONS</p>
+    </a>
+    <a href="#planner" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+        <i class="fa fa-calendar w3-xxlarge"></i>
+        <p>DAILY PLANNER</p>
+    </a>
+    <a href="#resources" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+        <i class="fa fa-folder-open w3-xxlarge"></i>
+        <p>RESOURCES</p>
+    </a>
+    <a href="#contact" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+        <i class="fa fa-envelope w3-xxlarge"></i>
+        <p>CONTACT</p>
+    </a>
+</nav>
+
+<div class="w3-padding-large" id="main">
+    <header class="w3-container w3-padding-32 w3-center w3-black header-content">
+        <h1 class="w3-jumbo">Classroom Manager</h1>
+        <p>Build and Manage your class.</p>
+        <img src="https://i0.wp.com/masscc.org/wp-content/uploads/2020/08/62918-Campus-Shots011.jpg?zoom=2&resize=1140%2C458&ssl=1" class="header-image" alt="Classroom Image">
+    </header>
+</div>
+
+</body>
+</html>
