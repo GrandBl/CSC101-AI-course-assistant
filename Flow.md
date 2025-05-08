@@ -54,7 +54,6 @@ Finally, you will need to set all new parameter in Generate Syllabus.
 
 - Optional
 if you want to confirm that the user input is correct you will set somnething similar like this.
-![image](https://github.com/user-attachments/assets/acb7ce18-6617-45e9-8a2d-dc58020b57cc)
 ![image](https://github.com/user-attachments/assets/ef617645-452d-4642-ad6b-0494e8848ec7)
 You put two choice answers yes or no conditions,
 If yes we move to next page,
