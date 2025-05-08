@@ -52,3 +52,13 @@ Finally, you will need to set all new parameter in Generate Syllabus.
 ![image](https://github.com/user-attachments/assets/44ae7c1e-98c6-481b-b6ed-a88f4e0bb008)
 ![image](https://github.com/user-attachments/assets/0d046c6c-ba53-42df-b83d-92bb8913d5f2)
 
+Optional
+if you want to confirm that the user input is correct you will set somnething similar like this.
+![image](https://github.com/user-attachments/assets/acb7ce18-6617-45e9-8a2d-dc58020b57cc)
+![image](https://github.com/user-attachments/assets/ef617645-452d-4642-ad6b-0494e8848ec7)
+You put two choice answers yes or no conditions,
+If yes we move to next page,
+if no we go back and reset the parameter in preset parameter in  "no" condition route to NULL;
+![image](https://github.com/user-attachments/assets/e8eaf554-352c-4de5-859d-337b253ed5f4)
+
+
