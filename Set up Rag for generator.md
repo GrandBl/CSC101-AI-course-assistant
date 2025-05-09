@@ -1,4 +1,5 @@
 In order the generator able to retrieve data from data store you will need to create a parameter in "parameter preset" with value is "$request.knowledge.answers[0]" in "edit data store"
+
 ![image](https://github.com/user-attachments/assets/a5419384-57fa-4035-8e86-6997350251a9)
 
 ![image](https://github.com/user-attachments/assets/4c8c6da7-17af-4201-b87f-7023a2906da9)
