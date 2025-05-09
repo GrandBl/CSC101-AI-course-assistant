@@ -9,4 +9,4 @@ after that in generator prompt you command agent get data store being store in p
 ![image](https://github.com/user-attachments/assets/9e4191bb-6653-46e9-afff-df5ea4bb9ba8)
 
 
-Placeholder is parameter input 
+Placeholder is where parameter input 
