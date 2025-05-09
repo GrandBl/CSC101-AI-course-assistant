@@ -51,5 +51,36 @@ If you want to check the data store available yet? Yet can click to the name of 
 
 If you see loading symbol that means the system is ingesting your data
 
+![image](https://github.com/user-attachments/assets/c49f192b-431e-4c9c-ad3f-ba84a5abf521)
+
 Once the proceed is done you will able to using your data which you can combine with generator for RAG in Dialogflow CX.
+
+![image](https://github.com/user-attachments/assets/acdf97a5-0508-4d49-b198-d95535053662)
+
+Step 6: Create App
+
+![image](https://github.com/user-attachments/assets/20525785-12ba-4478-baa2-12c159049a32)
+
+- Choose this
+
+
+![image](https://github.com/user-attachments/assets/d05600a9-110b-4976-ad76-30297afd4b47)
+
+
+Fill out the information
+
+![image](https://github.com/user-attachments/assets/1e17cfdb-6b6f-482e-91ef-a4adbb45240e)
+
+Choose data store you want to use
+
+![image](https://github.com/user-attachments/assets/205e2623-fb05-4ba4-8957-862aa6b450c8)
+
+Go Preview to test out your data store.
+
+![image](https://github.com/user-attachments/assets/65aabc17-fdbe-4459-8123-494127fa10d1)
+
+Here is the result:
+
+![image](https://github.com/user-attachments/assets/26abf4fa-3310-4678-a500-aa95ec1acd62)
+
 
