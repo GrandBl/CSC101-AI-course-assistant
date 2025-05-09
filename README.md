@@ -1,6 +1,11 @@
 # CSC101-AI-course-assistant
 The Python Instructor Assistant streamlines the teaching process by generating lesson materials, Socratic questions, summary lessons,. Designed to minimize repetitive tasks, it empowers educators to focus on engaging learners and delivering dynamic, interactive Python lessons.
 
+- AI-powered Instructor Assistant is designed using Dialogflow CX to help educators automatically generate course summaries, quizzes, study guides, and interactive activities based on user-defined topics or chapters.
+
+
+
+
 References:
 
 1. Rizvi, M. (2023). Investigating aı-powered tutoring systems that adapt to 
